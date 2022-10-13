@@ -16,12 +16,13 @@ I am also an active developer within the [gem5](www.gem5.org) community. You can
 
 News
 ======
+* Sep 2022: Documentation for HeteroGarnet, now available on [gem5 documentation website](https://www.gem5.org/documentation/general_docs/ruby/heterogarnet/).
 * Apr 2022: I joined [Microsoft Research](https://www.microsoft.com/en-us/research/people/srbharadwaj/) as a Senior Researcher!
 * Apr 2022: Paper on Fine-Grain DVFS released on arxiv: [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://arxiv.org/abs/2205.00121)
 * May 2021: Paper on underclocking accepted in NOCS 2021: [DUB: Dynamic Underclocking and Bypassing in NoCs for Heterogeneous GPU Workloads](https://ieeexplore.ieee.org/document/9634971)
 * Apr 2021: My first book now available on several e-stores: Network-on-Chip Security and Privacy ([Amazon](https://www.amazon.com/Network-Security-Privacy-Prabhat-Mishra/dp/3030691306) [Springer](https://link.springer.com/book/10.1007/978-3-030-69131-8))
 * Oct 2020: New paper describing gem5 version-20: [The gem5 Simulator: Version 20.0+](https://arxiv.org/abs/2007.03152)
-* June 2020: Paper on chiplet topologies accepted in DAC 2020: [Kite: A Family of Heterogeneous Interposer Topologies Enabled via Accurate Interconnect Modeling] (https://ieeexplore.ieee.org/document/9218539)
+* June 2020: Paper on chiplet topologies accepted in DAC 2020: [Kite: A Family of Heterogeneous Interposer Topologies Enabled via Accurate Interconnect Modeling](https://ieeexplore.ieee.org/document/9218539)
 * Jun 2020: Released a new simulation tool - [HeteroGarnet](https://github.com/gem5/gem5/commit/7957b1c43b3df2c9e9b6ec17eb7fc97976c9988d). 
 * Jun 2019: Paper on simulating ML applications accepted in IISWC 2019: Optimizing GPU cache policies for MI workloads [https://ieeexplore.ieee.org/document/9041977]
 * Jun 2018: Paper on TLB architectures accept in MICRO 2018: [Scalable Distributed Last-Level TLBs Using Low-Latency Interconnects](https://ieeexplore.ieee.org/document/8574547)
