@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Latest CV](/cv.pdf)
+[Latest CV](/Srikant_Bharadwaj_CV.pdf)
