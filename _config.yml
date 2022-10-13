@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Srikant Bharadwaj"
-  avatar           : "profile.png"
-  bio              : "Researcher at AMD"
-  location         : "Bellevue, WA"
-  employer         :
+  avatar           : "Bust.jpeg"
+  bio              : "Senior Researcher at Microsoft"
+  location         : "Redmond, WA"
+  employer         : Microsoft
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qljzNx4bNBMC&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/srikantvv"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  website          : "https://www.microsoft.com/en-us/research/people/srbharadwaj/"
 
 
 # Reading Files
