@@ -16,6 +16,7 @@ I am also an active developer within the [gem5](www.gem5.org) community. You can
 
 News
 ======
+* Jun 2023: Paper on Fine-Grain DVFS accepted at ASPLOS 2024. [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://arxiv.org/abs/2205.00121)
 * Sep 2022: Documentation for HeteroGarnet, now available on [gem5 documentation website](https://www.gem5.org/documentation/general_docs/ruby/heterogarnet/).
 * Apr 2022: I joined [Microsoft Research](https://www.microsoft.com/en-us/research/people/srbharadwaj/) as a Senior Researcher!
 * Apr 2022: Paper on Fine-Grain DVFS released on arxiv: [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://arxiv.org/abs/2205.00121)
