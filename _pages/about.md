@@ -16,7 +16,8 @@ I am also an active developer within the [gem5](www.gem5.org) community. You can
 
 News
 ======
-* Sep 2023: Started a new project on fine-grained mixed precision quantization. Paper coming soon...
+* May 2024: Paper on efficient execution of attention kernels for long context lengths. [Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers](https://arxiv.org/pdf/2405.10480)
+* Apr 2024: I presented our work on Fine-Grain DVFS at ASPLOS 2024. [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://dl.acm.org/doi/10.1145/3623278.3624756)
 * Jun 2023: Paper on Fine-Grain DVFS accepted at ASPLOS 2024. [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://arxiv.org/abs/2205.00121)
 * Sep 2022: Documentation for HeteroGarnet, now available on [gem5 documentation website](https://www.gem5.org/documentation/general_docs/ruby/heterogarnet/).
 * Apr 2022: I joined [Microsoft Research](https://www.microsoft.com/en-us/research/people/srbharadwaj/) as a Senior Researcher!
