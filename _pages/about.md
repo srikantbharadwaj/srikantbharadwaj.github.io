@@ -16,11 +16,12 @@ I am also an active developer within the [gem5](www.gem5.org) community. You can
 
 News
 ======
-* Dec 2024: Promoted to Principal Researcher! 🥳
+* Dec 2024: Promoted to "Principal Researcher"! 🥳
 * Nov 2024: Presented our work InC2: Design of Interconnection Systems for Composable Chiplet Architectures at [HiPChips](https://hipchips.github.io/micro2024/)
 * Aug 2024: Paper on efficient speculative decoding. [Semi-autoregressive Decoding for Efficient LLM Inference](https://openreview.net/forum?id=gfDbD1MRYk)
 * May 2024: Paper on efficient execution of attention kernels for long context lengths. [Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers](https://arxiv.org/pdf/2405.10480)
 * Apr 2024: I presented our work on Fine-Grain DVFS at ASPLOS 2024. [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://dl.acm.org/doi/10.1145/3623278.3624756)
+* Sep 2023: Promoted to Level-2 of "Senior Researcher"! 🥳
 * Jun 2023: Paper on Fine-Grain DVFS accepted at ASPLOS 2024. [Predict; Do not React for Enabling Efficient Fine Grain DVFS in GPUs](https://arxiv.org/abs/2205.00121)
 * Sep 2022: Documentation for HeteroGarnet, now available on [gem5 documentation website](https://www.gem5.org/documentation/general_docs/ruby/heterogarnet/).
 * Apr 2022: I joined [Microsoft Research](https://www.microsoft.com/en-us/research/people/srbharadwaj/) as a Senior Researcher!
