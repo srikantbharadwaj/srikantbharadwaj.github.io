@@ -33,4 +33,5 @@ News
 * Jun 2020: Released a new simulation tool - [HeteroGarnet](https://github.com/gem5/gem5/commit/7957b1c43b3df2c9e9b6ec17eb7fc97976c9988d). 
 * Jun 2019: Paper on simulating ML applications accepted in IISWC 2019: Optimizing GPU cache policies for MI workloads [https://ieeexplore.ieee.org/document/9041977]
 * Jun 2018: Paper on TLB architectures accept in MICRO 2018: [Scalable Distributed Last-Level TLBs Using Low-Latency Interconnects](https://ieeexplore.ieee.org/document/8574547)
+* Feb 2018: Joined AMD Research as a Senior Design Engineer! 
 
