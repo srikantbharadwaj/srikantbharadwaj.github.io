@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Latest CV](/Srikant_Bharadwaj_CV.pdf)
+[Latest CV - Jan2025](/Srikant_Bharadwaj_CV_Jan2025.pdf)
