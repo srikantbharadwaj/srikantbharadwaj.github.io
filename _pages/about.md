@@ -16,7 +16,7 @@ I am also an active developer within the [gem5](www.gem5.org) community. You can
 
 News
 ======
-* Feb 2025: Two papers have been accepted at MLSys 2025: [TurboAttention](https://arxiv.org/abs/2412.08585) and [LeanAttention](https://arxiv.org/abs/2405.10480).
+* Feb 2025: Two papers accepted at [MLSys 2025](https://mlsys.org/): [TurboAttention](https://arxiv.org/abs/2412.08585) and [LeanAttention](https://arxiv.org/abs/2405.10480).
 * Dec 2024: Promoted to "Principal Researcher"! 🥳
 * Nov 2024: Presented our work InC2: Design of Interconnection Systems for Composable Chiplet Architectures at [HiPChips](https://hipchips.github.io/micro2024/)
 * Aug 2024: Paper on efficient speculative decoding. [Semi-autoregressive Decoding for Efficient LLM Inference](https://openreview.net/forum?id=gfDbD1MRYk)
